@@ -1,1 +1,14 @@
-
+.container{
+    height: auto;
+    width: auto;
+    margin: 1px solid;
+}
+.back{
+    height: 40%;
+    width: 100%;
+    background-color: rgb(186, 199, 163);
+    text-align: center;
+}
+.p{
+    color: brown;
+}
